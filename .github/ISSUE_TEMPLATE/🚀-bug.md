@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 name: "🚀 Bug"
-description: "Bug 발생 시 작성"
+description: "Bug 발생 시"
 labels: ["bug"]
 body:
   - type: textarea
